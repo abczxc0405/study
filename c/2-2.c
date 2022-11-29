@@ -1,4 +1,8 @@
 // 제어 문자를 사용한 출력
+// \n(개행, new line) : 다음 줄로 이동
+// \b(백스페이스, backspace) : 한 칸 왼쪽으로 이동
+// \r(캐리지 리턴, carriage return) : 맨 앞으로 이동
+// \a(알럿 경보, alert) : 
 
 #include <stdio.h>
 
